@@ -5,9 +5,9 @@
 ### URL: https://papaya-malabi-e1088c.netlify.app
 #### In this project I worked with: 
 
-- Adding modal via portals
+- Portals
 - Using Context
-- Refs & forward Refs
+- Refs
 - Hooks (useReducer, useEffect, etc...)
 - Fetching data via Http
 - Handling Loading State
@@ -16,4 +16,4 @@
 - Reading Form Values
 - Adding Form Validation
 - Submitting & Sending data
-- Adding Better user Feedback
+- Adding user Feedback

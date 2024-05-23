@@ -1,6 +1,6 @@
 #  React
 
-## Food-Order-App
+## Hungrify App
 
 ### URL: https://papaya-malabi-e1088c.netlify.app
 #### In this project I worked with: 
